@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<body bgcolor="orange">
+<img src="Flag.jpg" alt="Flag Photo!" height="10%" width="10%">
+<img src="Flag.jpg" alt="Flag Photo!" height="20%" width="20%">
+<img src="Flag.jpg" alt="Flag Photo!" height="40%" width="40%">
+
+<!-- This work was brought to you by Ryan Prather -->
+
+<p> These are three American flags that I have programmed.
+ We as americans should be strong and proud of our accomplishments! 
+ Land of the Free!!!</p>
+
+<footer>
+Designed by Ryan Prather &#8226 on Feb 10, 2022
+</footer>
+</html>

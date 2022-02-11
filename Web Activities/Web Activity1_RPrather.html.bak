@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head style="text-align:center;">
+<title>	Ryan Prather, Web Design and Development - ITI 2170	</title>
+</head>
+
+<br/> <br/>
+
+<body>
+<hr/>
+<h1 style="text-align:center;"> <b> Chili Powder is the best spice! </b> </h1>
+<h3 style="text-align:center;"> <q><i>Chili is the best winter-time meal! </i></q> - Ryan Prather  </h3>
+
+
+<h1 style="background-color: Coral;"> There are so many reasons that Chili Powder is the best spice!</h1>
+
+
+<h3> #1 It tastes amazing in chili <br/> 
+#2 Chili tastes delicious on hot dogs <br/> 
+#3 It isn't expensive so you can buy a lot of it </h3>
+
+
+<h2 style="text-align:center; background-color: Beige;"> <i> <b> Here is a great Chili recipe that you can try sometime! </b> </i> </h2>
+
+<br/> <br/>
+
+<!-- This is the work of Ryan Prather -->
+<p>
+<hr/>
+1 1/2 teaspoons olive oil <br/> 
+1 pound gorund turkey <br/>
+1 chopped onion <br/> 
+2 cups of water <br/> 
+28 ounces of canned tomatoes <br/>
+16 ounces of canned kidney beans (drained, rinsed, and mashed <br/>
+1 tablespoon garlic, minced <br/>
+2 tablespoons of <b> CHILI POWDER </b> <br/>
+1/2 teaspoon paprika, 
+1/2 teaspoon dried oregano, 
+1/2 teaspoon ground cayenne pepper, 
+1/2 teaspoon ground cumin, 
+1/2 teaspoon salt, 
+1/2 teaspoon ground black pepper <br/>
+<hr/>
+</p>
+
+
+<h2> Here Is The Cooking Instructions! </h2>
+
+
+<h3> <b> Step 1 </b> </h3>
+<p> Heat the oil in a large pot over medium heat. Place turkey in the pot,
+ and cook until evenly brown. Stir in onion, and cook until tender. </p>
+
+<h3> <b> Step 2 </b> </h3>
+<p> Pour water into the pot. Mix in tomatoes, kidney beans, and garlic.
+ Season chili powder, paprika, oregano, cayenne pepper, cumin, salt,
+ and pepper. Bring to a boil. Reduce heat to low, cover, and simmer for 30 minutes. <p>
+
+<h3> <b> Now Enjoy! </b> </h3>
+<hr/>
+
+
+
+<h2> <b> I would highly suggest trying this recipe, it tastes amazing! </b> </h2>
+
+<br/>
+
+<hr/>
+<footer>
+Created by: Ryan Prather
+</footer>
+</html>
